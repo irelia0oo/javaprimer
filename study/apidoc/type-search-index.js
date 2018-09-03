@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"room","h":"","u":""},{"l":"stu","h":"","u":""},{"l":"tec","h":"","u":""}]

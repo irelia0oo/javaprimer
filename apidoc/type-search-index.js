@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"javadoctest","h":"","u":""},{"l":"test","h":"","u":""}]

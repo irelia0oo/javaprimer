@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"age","h":"","u":""},{"l":"javadoctest()","h":"","u":""},{"l":"main(String[])","h":"","u":"main-java.lang.String:A-"},{"l":"name","h":"","u":""},{"l":"test()","h":"","u":""}]
